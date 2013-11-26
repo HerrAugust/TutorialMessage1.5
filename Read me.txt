@@ -1,7 +1,0 @@
-This project was downloaded from GeheimerSchatz.altervista.org and there you should find the relative documentation.
-This project is OpenSource and this means that you can do whatever you want with it, for commercial and not purposes.
-I would like you help the improvement of TutorialMessage, releasing your changes to the project.
-TutorialMessage has been developed with Visual Studio 2010 in C#. You can find a DLL to add as reference to your project withing the directory "Test".
-I have also made available the dimostration of some equation used in TutorialMessage ("Dimostration.docx").
-
-Password: GeheimerSchatz
